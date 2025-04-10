@@ -1,0 +1,14 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgba(255, 176, 65, 0.755);
+}
+h1, h2, h3, .subheading {
+    font-family: Helvetica, Arial, sans-serif !important;
+    color: white;
+}
+h2:hover, h3:hover{
+    color: rgb(84, 160, 227);
+}
+a:hover{
+    color: rgb(84, 160, 227) !important;
+}

@@ -1,0 +1,52 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(129, 129, 245);
+    color: rgb(87, 53, 8);
+    background-image: url("https://t4.ftcdn.net/jpg/01/64/42/95/360_F_164429506_XedAN1TF7Ncxc0hnFCk65YlJtqAG6ZfT.jpg");
+    background-repeat: repeat-y; 
+    /* or you can do no-repeat */
+    background-size: cover;
+}
+a{
+    color:rgb(93, 65, 23)
+}
+a:visited{
+    color:rgb(93, 65, 23) ;
+}
+h1, h2{
+    text-align: center;
+}
+img{
+    border: 5px solid brown;
+    padding: 5px;
+    height: 250px;
+    /* margin: auto;
+    display: block; */
+}
+img:hover{
+    border: 10px dashed brown;
+    padding: 0px;
+    height: 450px;
+}
+.rizz{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: hotpink;
+    border: 5px dashed yellow;
+    font-size: 400%, bolder;
+    background-color: limegreen;
+}
+.rizz:hover{
+    font-size: 450%;
+    color: red;
+    border: 5px solid cyan;
+}
+li{
+    width: fit-content;
+}
+li:hover{
+    text-decoration: underline;
+    background-color: darkgray;
+}
+/* .bigIMG{
+    height:500px;
+} */
